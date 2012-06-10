@@ -191,7 +191,7 @@ public class CheckUpdate extends Service {
 		  int min=Integer.parseInt(mScope[0]);
 		  int max=Integer.parseInt(mScope[1]);
 		  if(min<=readPreference()&&max>=readPreference()){
-		  	  FIRMWARE=Build.FIRMWARE;
+		  	  FIRMWARE="4.0.4";
 			  Log.v(TAG,"Build.FIRMWARE="+FIRMWARE);
 			  FIRMWARE=getNumber(FIRMWARE);
 			  release=getNumber(release);
