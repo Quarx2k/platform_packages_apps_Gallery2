@@ -416,8 +416,6 @@
     <!-- The title of menu item where user can add a new account -->
     <string name="add_account">Add account</string>
 
-
-
     <!-- The subtitle setting title -->
     <string name="title_label">Video settings</string>
 
@@ -503,24 +501,4 @@
     </string-array>
 	<string name="system_battery">"Battery:</string>
 	
-	<string name="connect_net_fail_message">"Connecting fails, please check your network setting. Update checking fails."</string>
-	<string name="update_title">"Update notice"</string>
-	<string name="update_massege">"New version is available, do you want to update now?"</string>
-	<string name="update_now">"select"</string>
-	<string name="update_late">"delect"</string>
-	<string name="current_version">"urrent version: %s"</string>
-	<string name="new_version">"New version: %s"</string>
-	<string name="download_massege">"Loading, please wait......"</string>
-	<string name="fail_massege">Download fails, please check your network setting.</string>
-	<string name="allow_update_notice">open the update notice</string>
-	<string name="allow_update_massege">The system is set to "update indication enable"</string>
-	<string name="close_update_notice">Close the update notice</string>
-	<string name="close_update_massege">The system is set to "update indication disable</string>
-	<string name="dialog_update_title">Installation notice!</string>
-	<string name="dialog_update_masege">A more powerful player is found, do you want to install now?</string>
-	<string name="dialog_update_checkbox">No longer ask</string>
-	<string name="progress_update_massege">Loading, please wait......</string>
-	<string name="install_massege">The APK downloaded last time has not been installed yet,do you want to install now?</string>
-	<string name="install_title">Installation notice</string>
-	<string name="download_fail_massage"> Download fails, please check your network setting.</string>
 </resources>
